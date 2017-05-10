@@ -417,8 +417,8 @@ body {
 
 .main-footer .about-us {
     float: left;
-    width: 165px;
-    margin-left: 30px;
+    width: 187px;
+    margin-left: 40px;
 }
 
 .main-footer .newsletter {
@@ -522,11 +522,9 @@ body {
 }
 
 .decor {
-}
-
-.angle {
-    top: 0;
     position: absolute;
+    top: 0;
+    right: 0;
 }
 
 .content-index-row .angle {
