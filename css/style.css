@@ -433,8 +433,7 @@ body {
 .main-footer .address {
     float: left;
     width: 263px;
-    margin-left: 30px;
-    padding-bottom: -7px;
+    margin-left: 30px
 }
 
 .main-footer .support {
