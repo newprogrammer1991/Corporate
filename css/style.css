@@ -93,6 +93,7 @@ body {
     z-index: 999;
     background-color: #E8EBF0;
     background-image: url("../img/mountain.jpg");
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
 }
@@ -474,6 +475,7 @@ body {
     margin: 0;
     background-color: #FF6D6D;
     box-shadow: 0px 3px 3px 0px rgba(14, 15, 15, 0.25);
+    cursor: pointer;
 }
 
 .email-send i:after {
