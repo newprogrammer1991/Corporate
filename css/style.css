@@ -528,6 +528,7 @@ body {
 }
 
 .content-index-row .angle {
+    position: absolute;
     top: 0px;
 
 }
