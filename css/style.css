@@ -40,6 +40,9 @@ body {
     line-height: 22px;
     padding-top: 14px;
     padding-bottom: 14px;
+    outline: none;
+    border: none;
+    cursor: pointer;
 
 }
 
@@ -189,8 +192,11 @@ body {
 
 }
 
-.red-dots {
-    color: #ff6d6d;
+.red-dots:after{
+    content: " ....";
+    display: inline-block;
+    margin-left: 5px;
+    color: #ff0000;
 }
 
 .welcome {

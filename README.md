@@ -1,1 +1,1 @@
-just practice
+just practice(фиксированная верстка)
